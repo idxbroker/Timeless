@@ -1,0 +1,48 @@
+/*!
+ * Theme Name: Timeless
+ * Theme URI: http://www.agentevolution.com/kb/timeless/
+ * Author: Agent Evolution
+ * Author URI: http://www.agentevolution.com/
+ * Description: A Responsive Real Estate Child Theme with IDX home search for the real estate professional
+ * Version: 1.5.9
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.htm
+ * Text Domain: timeless
+ * Domain Path: /languages/
+ * Tags: black, white, black, green, blue, red, purple, aqua, responsive-layout, left-sidebar, right-sidebar, custom-menu, editor-style, featured-images, microformats, translation-ready
+ * Template: equity
+ */
+
+/* =Defaults (Foundation Functions and Variables)
+------------------------------------------------------------------------- */
+@import "timeless_settings";
+
+/* =Buttons (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/buttons";
+
+/* =Typography (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/type";
+
+/* =Off Canvas Menu (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/offcanvas";
+
+/* =Pagination (Foundation)
+------------------------------------------------------------------------- */
+@import "foundation/components/pagination";
+
+// Partials
+@import "partials/global";
+@import "partials/general";
+@import "partials/header";
+@import "partials/footer";
+@import "partials/sidebar";
+@import "partials/home";
+@import "partials/post";
+@import "partials/comments";
+@import "partials/widgets";
+@import "partials/shortcodes";
+@import "partials/idx";
+@import "partials/colors";
