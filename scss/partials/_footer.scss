@@ -1,0 +1,88 @@
+/* =Footer
+------------------------------------------------------------------------- */
+.footer-widgets {
+	background: $body-font-color-secondary;
+	padding: 3rem 0;
+	color: #fff;
+}
+.footer-widgets div[class*="footer-widgets-"] {
+	margin-bottom: 15px;
+}
+.footer-widgets,
+.footer-widgets .widget p,
+.footer-widgets .widget li,
+.footer-widgets .widget .agent-phone-wrap i,
+.footer-widgets .widget .agent-email-wrap i,
+.footer-widgets .widget a,
+.footer-widgets .widget label {
+	font-size: rem-calc(14);
+	color: #fff;
+}
+.footer-widgets .widget a:hover,
+footer.site-footer a:hover {
+	color: scale-color($secondary-color, $lightness: -14%);
+}
+.footer-widgets ul,
+.footer-widgets ol {
+	margin: 0 0 0 20px;
+}
+.footer-widgets li {
+	text-align: left;
+}
+.footer-widgets .widget-title { 
+	font-size: rem-calc(24);
+	text-transform: uppercase;
+	margin-bottom: 1.825rem;
+	color: $secondary-color;
+}
+.footer-widgets .widget.featured-page h2 a,
+.footer-widgets .widget.featured-post h2 a {
+	font-family: $header-font-family;
+	color: $secondary-color;
+	font-size: rem-calc(18);
+}
+.footer-widgets .widget.featured-page h2 a:hover,
+.footer-widgets .widget.featured-post h2 a:hover,
+.footer-widgets .widget.featured-page h2 a:focus,
+.footer-widgets .widget.featured-post h2 a:focus {
+	color: #fff;
+}
+footer.site-footer {
+	text-align: center;
+	background: $body-font-color-secondary;
+}
+footer.site-footer .row {
+	padding-top: 1rem;
+	border-top: 1px solid $primary-color;
+}
+footer.site-footer .columns {
+	margin-bottom: 0.825rem;
+}
+footer.site-footer, 
+footer.site-footer p,
+footer.site-footer a {
+	font-size: rem-calc(11);
+	line-height: 1.2;
+	color: #fff;
+}
+footer.site-footer a {
+	color: #fff;
+}
+footer.site-footer p {
+	margin: 0;
+}
+footer.site-footer i {
+	width: 60px;
+	height: 60px;
+	vertical-align: baseline;
+}
+@media #{$medium-up} {
+}
+@media #{$large-up} {
+	footer.site-footer .footer-left {
+		text-align: left;
+	}
+	footer.site-footer .footer-right {
+		text-align: right;
+	}
+}

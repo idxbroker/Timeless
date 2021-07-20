@@ -1,0 +1,857 @@
+/* =Color Styles - Green
+------------------------------------------------------------------------- */
+/* Primary */
+.timeless-green h1, .timeless-green h2, .timeless-green h3, .timeless-green h4, .timeless-green h5, .timeless-green h6,
+.timeless-green .site-inner a,
+.timeless-green .home-lead .leaflet-container a,
+.timeless-green .ae-iconbox i[class*="fa-"],
+.timeless-green .ae-iconbox a i[class*="fa-"],
+.timeless-green .showcase-property span.price,
+.timeless-green .equity-idx-carousel span.price,
+.timeless-green .widget .listing-wrap .listing-thumb-meta span,
+.timeless-green .home-middle h4.widget-title,
+.timeless-green h1.entry-title,
+.timeless-green .sidebar-primary h4.widget-title,
+.timeless-green .IDX-wrapper-standard a {
+	color: #2c8d24;
+}
+.timeless-green .ae-iconbox.type-2:hover i[class*="fa-"],
+.timeless-green .ae-iconbox.type-2:hover a i[class*="fa-"],
+.timeless-green .ae-iconbox.type-3:hover i[class*="fa-"],
+.timeless-green .ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: #2c8d24 !important;
+}
+
+.timeless-green .button.secondary:hover,
+.timeless-green button.secondary:focus,
+.timeless-green .button:not(.secondary),
+.timeless-green button:not(.secondary),
+.timeless-green input[type="button"],
+.timeless-green input[type="submit"],
+.timeless-green .equity-idx-carousel .owl-controls .owl-prev,
+.timeless-green .equity-idx-carousel .owl-controls .owl-next,
+.timeless-green .ae-iconbox.type-2 i,
+.timeless-green .ae-iconbox.type-3 i,
+.timeless-green ul.pagination li.current a,
+.timeless-green ul.pagination li.current button,
+.timeless-green .bg-alt,
+.timeless-green .after-entry-widget-area,
+.timeless-green .IDX-wrapper-standard .IDX-btn,
+.timeless-green #IDX-main.IDX-wrapper-standard .IDX-btn-default,
+.timeless-green .IDX-wrapper-standard .IDX-btn-primary,
+.timeless-green .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default,
+.timeless-green #IDX-mapHeader-Search,
+.timeless-green .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.timeless-green .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:focus,
+.timeless-green .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:hover {
+	background-color: #2c8d24;
+}
+.timeless-green .button,
+.timeless-green button,
+.timeless-green input[type="button"],
+.timeless-green input[type="submit"],
+.timeless-green footer.site-footer .row,
+.timeless-green .home-search-bar.sticky,
+.timeless-green .home-search-bar.sticky, body.sticky-search .home-search-bar,
+.timeless-green body.sticky-search .home-search-bar,
+.timeless-green .IDX-wrapper-standard .IDX-btn,
+.timeless-green #IDX-main .IDX-btn-primary,
+.timeless-green .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default,
+.timeless-green .IDX-wrapper-standard .IDX-panel-primary {
+	border-color: #2c8d24;
+}
+
+/* Secondary */
+.timeless-green header.site-header {
+	background: #225322;
+	background: -moz-linear-gradient(top, rgba(34,83,34,1) 0%, rgba(34,83,34,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(34,83,34,1) 0%,rgba(34,83,34,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(34,83,34,1) 0%,rgba(34,83,34,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#225322', endColorstr='#00225322',GradientType=0 ); /* IE6-9 */
+}
+.timeless-green .sticky-header.sticky header.site-header,
+.timeless-green .home-search-bar,
+.timeless-green .right-off-canvas-menu {
+	background-color: rgba(34, 83, 34, 0.85);
+}
+.timeless-green .home-lead h3,
+.timeless-green .content-sidebar-wrap.row .bg-alt {
+	background-color: rgba(44, 141, 36, 0.85);
+}
+.timeless-green .ae-iconbox h4 a:hover,
+.timeless-green .IDX-wrapper-standard a:focus, .IDX-wrapper-standard a:hover,
+.timeless-green .IDX-wrapper-standard .IDX-detailsHotAction a:hover {
+	color: #225322;
+}
+.timeless-green .footer-widgets,
+.timeless-green footer.site-footer,
+.timeless-green .IDX-wrapper-standard .IDX-btn:hover,
+.timeless-green #IDX-main.IDX-wrapper-standard .IDX-btn-default:hover,
+.timeless-green .IDX-wrapper-standard .IDX-btn-primary:hover,
+.timeless-green .IDX-wrapper-standard .IDX-btn:focus,
+.timeless-green #IDX-main.IDX-wrapper-standard .IDX-btn-default:focus,
+.timeless-green .IDX-wrapper-standard .IDX-btn-primary:focus,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover {
+	background-color: #225322 !important;
+}
+
+/* Accent */
+.timeless-green .site-inner .bg-alt a:hover,
+.timeless-green .site-inner .bg-alt a:focus,
+.timeless-green .bg-alt .equity-idx-carousel span.price:hover,
+.timeless-green .home-lead h3 strong,
+.timeless-green .home-bottom h4.widget-title,
+.timeless-green .home-cta-menu ul.menu li a:hover,
+.timeless-green .footer-widgets .widget-title,
+.timeless-green .footer-widgets .widget.featured-page h2 a,
+.timeless-green .footer-widgets .widget.featured-post h2 a,
+.timeless-green .footer-widgets .widget a:hover,
+.timeless-green footer.site-footer a:hover,
+.timeless-green .site-inner a:hover,
+.timeless-green .site-inner a:focus,
+.timeless-green a.off-canvas-toggle:hover,
+.timeless-green a.off-canvas-toggle:focus,
+.timeless-green ul.off-canvas-menu li a:hover,
+.timeless-green ul.off-canvas-menu li a:focus,
+.timeless-green .home-search-bar ul.menu li a:hover,
+.timeless-green .home-search-bar ul.menu li a:focus,
+.timeless-green .equity-idx-carousel span.price:hover {
+	color: #F5AA01 !important;
+}
+.timeless-green .home-search-bar .idx-omnibar-form button,
+.timeless-green .button.secondary,
+.timeless-green button.secondary,
+.timeless-green .button:not(.secondary):hover,
+.timeless-green button:not(.secondary):hover,
+.timeless-green input[type="button"]:hover,
+.timeless-green input[type="submit"]:hover,
+.timeless-green .bg-alt .button:hover,
+.timeless-green .bg-alt input[type="button"]:hover,
+.timeless-green .bg-alt input[type="submit"]:hover,
+.timeless-green .button:not(.secondary):focus,
+.timeless-green button:not(.secondary):focus,
+.timeless-green input[type="button"]:focus,
+.timeless-green input[type="submit"]:focus,
+.timeless-green .equity-idx-carousel .owl-controls .owl-prev:hover,
+.timeless-green .equity-idx-carousel .owl-controls .owl-next:hover,
+.timeless-green ul.pagination li.current a:hover,
+.timeless-green ul.pagination li.current a:focus,
+.timeless-green ul.pagination li.current button:hover,
+.timeless-green ul.pagination li.current button:focus {
+	background-color: #F5AA01;
+}
+
+/* White */
+.timeless-green .home-lead h3,
+.timeless-green .site-inner .bg-alt a,
+.timeless-green .site-inner a.button:hover,
+.timeless-green .site-inner a.button:focus,
+.timeless-green .site-inner .bg-alt a.button:hover,
+.timeless-green .site-inner .bg-alt a.button:focus,
+.timeless-green .button,
+.timeless-green button,
+.timeless-green input[type="button"],
+.timeless-green input[type="submit"],
+.timeless-green #IDX-formSubmit,
+.timeless-green .button:hover,
+.timeless-green button:hover,
+.timeless-green input[type="button"]:hover,
+.timeless-green input[type="submit"]:hover,
+.timeless-green #IDX-formSubmit:hover, 
+.timeless-green .ae-iconbox.type-2 i,
+.timeless-green .ae-iconbox.type-3 i,
+.timeless-green .bg-alt .ae-iconbox i[class*="fa-"],
+.timeless-green .bg-alt .ae-iconbox a i[class*="fa-"],
+.timeless-green .footer-widgets .widget.featured-page h2 a:hover,
+.timeless-green .footer-widgets .widget.featured-post h2 a:hover,
+.timeless-green .IDX-wrapper-standard .IDX-detailsPhotosWrap a.IDX-arrow,
+.timeless-green .IDX-button#IDX-scheduleShowing,
+.timeless-green .IDX-detailsVirtualTourLink,
+.timeless-green .idx-content .IDX-wrapper-standard #IDX-saveSearch,
+.timeless-green .idx-content .IDX-wrapper-standard #IDX-newSearch,
+.timeless-green .idx-content .IDX-wrapper-standard #IDX-modifySearch,
+.timeless-green .idx-content .IDX-wrapper-standard a.IDX-btn,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.timeless-green .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover  {
+	color: #fff !important;
+}
+.timeless-green .bg-alt .button,
+.timeless-green .bg-alt button,
+.timeless-green .bg-alt input[type="button"],
+.timeless-green .bg-alt input[type="submit"],
+.timeless-green .idx-content .IDX-wrapper-standard .IDX-btn,
+.timeless-green .idx-content .IDX-wrapper-standard .IDX-btn-default,
+.timeless-green .idx-content .IDX-wrapper-standard .IDX-btn-primary {
+	border-color: #fff;
+}
+
+.timeless-green .IDX-wrapper-standard #IDX-formReset,
+.timeless-green .IDX-wrapper-standard #IDX-resetBtn,
+.timeless-green .IDX-wrapper-standard #IDX-formReset-bottom {
+	color: $body-font-color !important;
+}
+
+/* =Color Styles - Red
+------------------------------------------------------------------------- */
+/* Primary */
+.timeless-red h1, .timeless-red h2, .timeless-red h3, .timeless-red h4, .timeless-red h5, .timeless-red h6,
+.timeless-red .site-inner a,
+.timeless-red .home-lead .leaflet-container a,
+.timeless-red .ae-iconbox i[class*="fa-"],
+.timeless-red .ae-iconbox a i[class*="fa-"],
+.timeless-red .showcase-property span.price,
+.timeless-red .equity-idx-carousel span.price,
+.timeless-red .widget .listing-wrap .listing-thumb-meta span,
+.timeless-red .home-middle h4.widget-title,
+.timeless-red h1.entry-title,
+.timeless-red .sidebar-primary h4.widget-title,
+.timeless-red .IDX-wrapper-standard a {
+	color: #cb2222;
+}
+.timeless-red .ae-iconbox.type-2:hover i[class*="fa-"],
+.timeless-red .ae-iconbox.type-2:hover a i[class*="fa-"],
+.timeless-red .ae-iconbox.type-3:hover i[class*="fa-"],
+.timeless-red .ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: #cb2222 !important;
+}
+
+.timeless-red .button.secondary:hover,
+.timeless-red button.secondary:focus,
+.timeless-red .button:not(.secondary),
+.timeless-red button:not(.secondary),
+.timeless-red input[type="button"],
+.timeless-red input[type="submit"],
+.timeless-red .equity-idx-carousel .owl-controls .owl-prev,
+.timeless-red .equity-idx-carousel .owl-controls .owl-next,
+.timeless-red .ae-iconbox.type-2 i,
+.timeless-red .ae-iconbox.type-3 i,
+.timeless-red ul.pagination li.current a,
+.timeless-red ul.pagination li.current button,
+.timeless-red .bg-alt,
+.timeless-red .after-entry-widget-area,
+.timeless-red .IDX-wrapper-standard .IDX-btn,
+.timeless-red #IDX-main.IDX-wrapper-standard .IDX-btn-default,
+.timeless-red .IDX-wrapper-standard .IDX-btn-primary,
+.timeless-red .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default,
+.timeless-red #IDX-mapHeader-Search,
+.timeless-red .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.timeless-red .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:focus,
+.timeless-red .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:hover {
+	background-color: #cb2222;
+}
+.timeless-red .button,
+.timeless-red button,
+.timeless-red input[type="button"],
+.timeless-red input[type="submit"],
+.timeless-red footer.site-footer .row,
+.timeless-red .home-search-bar.sticky,
+.timeless-red .home-search-bar.sticky, body.sticky-search .home-search-bar,
+.timeless-red body.sticky-search .home-search-bar,
+.timeless-red .IDX-wrapper-standard .IDX-btn,
+.timeless-red #IDX-main .IDX-btn-primary,
+.timeless-red .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default,
+.timeless-red .IDX-wrapper-standard .IDX-panel-primary {
+	border-color: #cb2222;
+}
+
+/* Secondary */
+.timeless-red header.site-header {
+	background: #7f1c1c;
+	background: -moz-linear-gradient(top, rgba(127,28,28,1) 0%, rgba(127,28,28,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(127,28,28,1) 0%,rgba(127,28,28,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(127,28,28,1) 0%,rgba(127,28,28,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7f1c1c', endColorstr='#007f1c1c',GradientType=0 ); /* IE6-9 */
+}
+.timeless-red .sticky-header.sticky header.site-header,
+.timeless-red .home-search-bar,
+.timeless-red .right-off-canvas-menu {
+	background-color: rgba(127,28,28, 0.85);
+}
+.timeless-red .home-lead h3,
+.timeless-red .content-sidebar-wrap.row .bg-alt {
+	background-color: rgba(203, 34, 34, 0.85);
+}
+.timeless-red .ae-iconbox h4 a:hover,
+.timeless-red .IDX-wrapper-standard a:focus, .IDX-wrapper-standard a:hover,
+.timeless-red .IDX-wrapper-standard .IDX-detailsHotAction a:hover {
+	color: #7f1c1c;
+}
+.timeless-red .footer-widgets,
+.timeless-red footer.site-footer,
+.timeless-red .IDX-wrapper-standard .IDX-btn:hover,
+.timeless-red #IDX-main.IDX-wrapper-standard .IDX-btn-default:hover,
+.timeless-red .IDX-wrapper-standard .IDX-btn-primary:hover,
+.timeless-red .IDX-wrapper-standard .IDX-btn:focus,
+.timeless-red #IDX-main.IDX-wrapper-standard .IDX-btn-default:focus,
+.timeless-red .IDX-wrapper-standard .IDX-btn-primary:focus,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover {
+	background-color: #7f1c1c !important;
+}
+
+/* Accent */
+.timeless-red .site-inner .bg-alt a:hover,
+.timeless-red .site-inner .bg-alt a:focus,
+.timeless-red .bg-alt .equity-idx-carousel span.price:hover,
+.timeless-red .home-lead h3 strong,
+.timeless-red .home-bottom h4.widget-title,
+.timeless-red .home-cta-menu ul.menu li a:hover,
+.timeless-red .footer-widgets .widget-title,
+.timeless-red .footer-widgets .widget.featured-page h2 a,
+.timeless-red .footer-widgets .widget.featured-post h2 a,
+.timeless-red .footer-widgets .widget a:hover,
+.timeless-red footer.site-footer a:hover,
+.timeless-red .site-inner a:hover,
+.timeless-red .site-inner a:focus,
+.timeless-red a.off-canvas-toggle:hover,
+.timeless-red a.off-canvas-toggle:focus,
+.timeless-red ul.off-canvas-menu li a:hover,
+.timeless-red ul.off-canvas-menu li a:focus,
+.timeless-red .home-search-bar ul.menu li a:hover,
+.timeless-red .home-search-bar ul.menu li a:focus,
+.timeless-red .equity-idx-carousel span.price:hover {
+	color: #9BCC28 !important;
+}
+.timeless-red .home-search-bar .idx-omnibar-form button,
+.timeless-red .button.secondary,
+.timeless-red button.secondary,
+.timeless-red .button:not(.secondary):hover,
+.timeless-red button:not(.secondary):hover,
+.timeless-red input[type="button"]:hover,
+.timeless-red input[type="submit"]:hover,
+.timeless-red .bg-alt .button:hover,
+.timeless-red .bg-alt input[type="button"]:hover,
+.timeless-red .bg-alt input[type="submit"]:hover,
+.timeless-red .button:not(.secondary):focus,
+.timeless-red button:not(.secondary):focus,
+.timeless-red input[type="button"]:focus,
+.timeless-red input[type="submit"]:focus,
+.timeless-red .equity-idx-carousel .owl-controls .owl-prev:hover,
+.timeless-red .equity-idx-carousel .owl-controls .owl-next:hover,
+.timeless-red ul.pagination li.current a:hover,
+.timeless-red ul.pagination li.current a:focus,
+.timeless-red ul.pagination li.current button:hover,
+.timeless-red ul.pagination li.current button:focus {
+	background-color: #9BCC28;
+}
+
+/* White */
+.timeless-red .home-lead h3,
+.timeless-red .site-inner .bg-alt a,
+.timeless-red .site-inner a.button:hover,
+.timeless-red .site-inner a.button:focus,
+.timeless-red .site-inner .bg-alt a.button:hover,
+.timeless-red .site-inner .bg-alt a.button:focus,
+.timeless-red .button,
+.timeless-red button,
+.timeless-red input[type="button"],
+.timeless-red input[type="submit"],
+.timeless-red #IDX-formSubmit,
+.timeless-red .button:hover,
+.timeless-red button:hover,
+.timeless-red input[type="button"]:hover,
+.timeless-red input[type="submit"]:hover,
+.timeless-red #IDX-formSubmit:hover, 
+.timeless-red .ae-iconbox.type-2 i,
+.timeless-red .ae-iconbox.type-3 i,
+.timeless-red .bg-alt .ae-iconbox i[class*="fa-"],
+.timeless-red .bg-alt .ae-iconbox a i[class*="fa-"],
+.timeless-red .footer-widgets .widget.featured-page h2 a:hover,
+.timeless-red .footer-widgets .widget.featured-post h2 a:hover,
+.timeless-red .IDX-wrapper-standard .IDX-detailsPhotosWrap a.IDX-arrow,
+.timeless-red .IDX-button#IDX-scheduleShowing,
+.timeless-red .IDX-detailsVirtualTourLink,
+.timeless-red .idx-content .IDX-wrapper-standard #IDX-saveSearch,
+.timeless-red .idx-content .IDX-wrapper-standard #IDX-newSearch,
+.timeless-red .idx-content .IDX-wrapper-standard #IDX-modifySearch,
+.timeless-red .idx-content .IDX-wrapper-standard a.IDX-btn,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.timeless-red .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover  {
+	color: #fff !important;
+}
+.timeless-red .bg-alt .button,
+.timeless-red .bg-alt button,
+.timeless-red .bg-alt input[type="button"],
+.timeless-red .bg-alt input[type="submit"],
+.timeless-red .idx-content .IDX-wrapper-standard .IDX-btn,
+.timeless-red .idx-content .IDX-wrapper-standard .IDX-btn-default,
+.timeless-red .idx-content .IDX-wrapper-standard .IDX-btn-primary {
+	border-color: #fff;
+}
+
+.timeless-red .IDX-wrapper-standard #IDX-formReset,
+.timeless-red .IDX-wrapper-standard #IDX-resetBtn,
+.timeless-red .IDX-wrapper-standard #IDX-formReset-bottom {
+	color: $body-font-color !important;
+}
+
+/* =Color Styles - Aqua
+------------------------------------------------------------------------- */
+/* Primary */
+.timeless-aqua h1, .timeless-aqua h2, .timeless-aqua h3, .timeless-aqua h4, .timeless-aqua h5, .timeless-aqua h6,
+.timeless-aqua .site-inner a,
+.timeless-aqua .home-lead .leaflet-container a,
+.timeless-aqua .ae-iconbox i[class*="fa-"],
+.timeless-aqua .ae-iconbox a i[class*="fa-"],
+.timeless-aqua .showcase-property span.price,
+.timeless-aqua .equity-idx-carousel span.price,
+.timeless-aqua .widget .listing-wrap .listing-thumb-meta span,
+.timeless-aqua .home-middle h4.widget-title,
+.timeless-aqua h1.entry-title,
+.timeless-aqua .sidebar-primary h4.widget-title,
+.timeless-aqua .IDX-wrapper-standard a {
+	color: #32bfa9;
+}
+.timeless-aqua .ae-iconbox.type-2:hover i[class*="fa-"],
+.timeless-aqua .ae-iconbox.type-2:hover a i[class*="fa-"],
+.timeless-aqua .ae-iconbox.type-3:hover i[class*="fa-"],
+.timeless-aqua .ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: #32bfa9 !important;
+}
+
+.timeless-aqua .button.secondary:hover,
+.timeless-aqua button.secondary:focus,
+.timeless-aqua .button:not(.secondary),
+.timeless-aqua button:not(.secondary),
+.timeless-aqua input[type="button"],
+.timeless-aqua input[type="submit"],
+.timeless-aqua .equity-idx-carousel .owl-controls .owl-prev,
+.timeless-aqua .equity-idx-carousel .owl-controls .owl-next,
+.timeless-aqua .ae-iconbox.type-2 i,
+.timeless-aqua .ae-iconbox.type-3 i,
+.timeless-aqua ul.pagination li.current a,
+.timeless-aqua ul.pagination li.current button,
+.timeless-aqua .bg-alt,
+.timeless-aqua .after-entry-widget-area,
+.timeless-aqua .IDX-wrapper-standard .IDX-btn,
+.timeless-aqua #IDX-main.IDX-wrapper-standard .IDX-btn-default,
+.timeless-aqua .IDX-wrapper-standard .IDX-btn-primary,
+.timeless-aqua .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default,
+.timeless-aqua #IDX-mapHeader-Search,
+.timeless-aqua .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.timeless-aqua .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:focus,
+.timeless-aqua .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:hover {
+	background-color: #32bfa9;
+}
+.timeless-aqua .button,
+.timeless-aqua button,
+.timeless-aqua input[type="button"],
+.timeless-aqua input[type="submit"],
+.timeless-aqua footer.site-footer .row,
+.timeless-aqua .home-search-bar.sticky,
+.timeless-aqua .home-search-bar.sticky, body.sticky-search .home-search-bar,
+.timeless-aqua body.sticky-search .home-search-bar,
+.timeless-aqua .IDX-wrapper-standard .IDX-btn,
+.timeless-aqua #IDX-main .IDX-btn-primary,
+.timeless-aqua .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default,
+.timeless-aqua .IDX-wrapper-standard .IDX-panel-primary {
+	border-color: #32bfa9;
+}
+
+/* Secondary */
+.timeless-aqua header.site-header {
+	background: #228273;
+	background: -moz-linear-gradient(top, rgba(34,130,115,1) 0%, rgba(34,130,115,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(34,130,115,1) 0%,rgba(34,130,115,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(34,130,115,1) 0%,rgba(34,130,115,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#228273', endColorstr='#00228273',GradientType=0 ); /* IE6-9 */
+}
+.timeless-aqua .sticky-header.sticky header.site-header,
+.timeless-aqua .home-search-bar,
+.timeless-aqua .right-off-canvas-menu {
+	background-color: rgba(34,130,115, 0.85);
+}
+.timeless-aqua .home-lead h3,
+.timeless-aqua .content-sidebar-wrap.row .bg-alt {
+	background-color: rgba(50, 191, 169, 0.85);
+}
+.timeless-aqua .ae-iconbox h4 a:hover,
+.timeless-aqua .IDX-wrapper-standard a:focus, .IDX-wrapper-standard a:hover,
+.timeless-aqua .IDX-wrapper-standard .IDX-detailsHotAction a:hover {
+	color: #228273;
+}
+.timeless-aqua .footer-widgets,
+.timeless-aqua footer.site-footer,
+.timeless-aqua .IDX-wrapper-standard .IDX-btn:hover,
+.timeless-aqua #IDX-main.IDX-wrapper-standard .IDX-btn-default:hover,
+.timeless-aqua .IDX-wrapper-standard .IDX-btn-primary:hover,
+.timeless-aqua .IDX-wrapper-standard .IDX-btn:focus,
+.timeless-aqua #IDX-main.IDX-wrapper-standard .IDX-btn-default:focus,
+.timeless-aqua .IDX-wrapper-standard .IDX-btn-primary:focus,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover {
+	background-color: #228273 !important;
+}
+
+/* Accent */
+.timeless-aqua .site-inner .bg-alt a:hover,
+.timeless-aqua .site-inner .bg-alt a:focus,
+.timeless-aqua .bg-alt .equity-idx-carousel span.price:hover,
+.timeless-aqua .home-lead h3 strong,
+.timeless-aqua .home-bottom h4.widget-title,
+.timeless-aqua .home-cta-menu ul.menu li a:hover,
+.timeless-aqua .footer-widgets .widget-title,
+.timeless-aqua .footer-widgets .widget.featured-page h2 a,
+.timeless-aqua .footer-widgets .widget.featured-post h2 a,
+.timeless-aqua .footer-widgets .widget a:hover,
+.timeless-aqua footer.site-footer a:hover,
+.timeless-aqua .site-inner a:hover,
+.timeless-aqua .site-inner a:focus,
+.timeless-aqua a.off-canvas-toggle:hover,
+.timeless-aqua a.off-canvas-toggle:focus,
+.timeless-aqua ul.off-canvas-menu li a:hover,
+.timeless-aqua ul.off-canvas-menu li a:focus,
+.timeless-aqua .home-search-bar ul.menu li a:hover,
+.timeless-aqua .home-search-bar ul.menu li a:focus,
+.timeless-aqua .equity-idx-carousel span.price:hover {
+	color: #F17AAA !important;
+}
+.timeless-aqua .home-search-bar .idx-omnibar-form button,
+.timeless-aqua .button.secondary,
+.timeless-aqua button.secondary,
+.timeless-aqua .button:not(.secondary):hover,
+.timeless-aqua button:not(.secondary):hover,
+.timeless-aqua input[type="button"]:hover,
+.timeless-aqua input[type="submit"]:hover,
+.timeless-aqua .bg-alt .button:hover,
+.timeless-aqua .bg-alt input[type="button"]:hover,
+.timeless-aqua .bg-alt input[type="submit"]:hover,
+.timeless-aqua .button:not(.secondary):focus,
+.timeless-aqua button:not(.secondary):focus,
+.timeless-aqua input[type="button"]:focus,
+.timeless-aqua input[type="submit"]:focus,
+.timeless-aqua .equity-idx-carousel .owl-controls .owl-prev:hover,
+.timeless-aqua .equity-idx-carousel .owl-controls .owl-next:hover,
+.timeless-aqua ul.pagination li.current a:hover,
+.timeless-aqua ul.pagination li.current a:focus,
+.timeless-aqua ul.pagination li.current button:hover,
+.timeless-aqua ul.pagination li.current button:focus {
+	background-color: #F17AAA;
+}
+
+/* White */
+.timeless-aqua .home-lead h3,
+.timeless-aqua .site-inner .bg-alt a,
+.timeless-aqua .site-inner a.button:hover,
+.timeless-aqua .site-inner a.button:focus,
+.timeless-aqua .site-inner .bg-alt a.button:hover,
+.timeless-aqua .site-inner .bg-alt a.button:focus,
+.timeless-aqua .button,
+.timeless-aqua button,
+.timeless-aqua input[type="button"],
+.timeless-aqua input[type="submit"],
+.timeless-aqua #IDX-formSubmit,
+.timeless-aqua .button:hover,
+.timeless-aqua button:hover,
+.timeless-aqua input[type="button"]:hover,
+.timeless-aqua input[type="submit"]:hover,
+.timeless-aqua #IDX-formSubmit:hover, 
+.timeless-aqua .ae-iconbox.type-2 i,
+.timeless-aqua .ae-iconbox.type-3 i,
+.timeless-aqua .bg-alt .ae-iconbox i[class*="fa-"],
+.timeless-aqua .bg-alt .ae-iconbox a i[class*="fa-"],
+.timeless-aqua .footer-widgets .widget.featured-page h2 a:hover,
+.timeless-aqua .footer-widgets .widget.featured-post h2 a:hover,
+.timeless-aqua .IDX-wrapper-standard .IDX-detailsPhotosWrap a.IDX-arrow,
+.timeless-aqua .IDX-button#IDX-scheduleShowing,
+.timeless-aqua .IDX-detailsVirtualTourLink,
+.timeless-aqua .idx-content .IDX-wrapper-standard #IDX-saveSearch,
+.timeless-aqua .idx-content .IDX-wrapper-standard #IDX-newSearch,
+.timeless-aqua .idx-content .IDX-wrapper-standard #IDX-modifySearch,
+.timeless-aqua .idx-content .IDX-wrapper-standard a.IDX-btn,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.timeless-aqua .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover  {
+	color: #fff !important;
+}
+.timeless-aqua .bg-alt .button,
+.timeless-aqua .bg-alt button,
+.timeless-aqua .bg-alt input[type="button"],
+.timeless-aqua .bg-alt input[type="submit"],
+.timeless-aqua .idx-content .IDX-wrapper-standard .IDX-btn,
+.timeless-aqua .idx-content .IDX-wrapper-standard .IDX-btn-default,
+.timeless-aqua .idx-content .IDX-wrapper-standard .IDX-btn-primary {
+	border-color: #fff;
+}
+
+.timeless-aqua .IDX-wrapper-standard #IDX-formReset,
+.timeless-aqua .IDX-wrapper-standard #IDX-resetBtn,
+.timeless-aqua .IDX-wrapper-standard #IDX-formReset-bottom {
+	color: $body-font-color !important;
+}
+
+/* =Color Styles - Black
+------------------------------------------------------------------------- */
+/* Primary */
+.timeless-black h1, .timeless-black h2, .timeless-black h3, .timeless-black h4, .timeless-black h5, .timeless-black h6,
+.timeless-black .site-inner a,
+.timeless-black .home-lead .leaflet-container a,
+.timeless-black .ae-iconbox i[class*="fa-"],
+.timeless-black .ae-iconbox a i[class*="fa-"],
+.timeless-black .showcase-property span.price,
+.timeless-black .equity-idx-carousel span.price,
+.timeless-black .widget .listing-wrap .listing-thumb-meta span,
+.timeless-black .home-middle h4.widget-title,
+.timeless-black h1.entry-title,
+.timeless-black .sidebar-primary h4.widget-title,
+.timeless-black .IDX-wrapper-standard a {
+	color: #2b2b2b;
+}
+.timeless-black .ae-iconbox.type-2:hover i[class*="fa-"],
+.timeless-black .ae-iconbox.type-2:hover a i[class*="fa-"],
+.timeless-black .ae-iconbox.type-3:hover i[class*="fa-"],
+.timeless-black .ae-iconbox.type-3:hover a i[class*="fa-"] {
+	color: #2b2b2b !important;
+}
+
+.timeless-black .button.secondary:hover,
+.timeless-black button.secondary:focus,
+.timeless-black .button:not(.secondary),
+.timeless-black button:not(.secondary),
+.timeless-black input[type="button"],
+.timeless-black input[type="submit"],
+.timeless-black .equity-idx-carousel .owl-controls .owl-prev,
+.timeless-black .equity-idx-carousel .owl-controls .owl-next,
+.timeless-black .ae-iconbox.type-2 i,
+.timeless-black .ae-iconbox.type-3 i,
+.timeless-black ul.pagination li.current a,
+.timeless-black ul.pagination li.current button,
+.timeless-black .bg-alt,
+.timeless-black .after-entry-widget-area,
+.timeless-black .IDX-wrapper-standard .IDX-btn,
+.timeless-black #IDX-main.IDX-wrapper-standard .IDX-btn-default,
+.timeless-black .IDX-wrapper-standard .IDX-btn-primary,
+.timeless-black .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default,
+.timeless-black #IDX-mapHeader-Search,
+.timeless-black .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a,
+.timeless-black .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:focus,
+.timeless-black .IDX-wrapper-standard .IDX-nav-pills>li.IDX-active>a:hover {
+	background-color: #2b2b2b;
+}
+.timeless-black .button,
+.timeless-black button,
+.timeless-black input[type="button"],
+.timeless-black input[type="submit"],
+.timeless-black footer.site-footer .row,
+.timeless-black .home-search-bar.sticky,
+.timeless-black .home-search-bar.sticky, body.sticky-search .home-search-bar,
+.timeless-black body.sticky-search .home-search-bar,
+.timeless-black .IDX-wrapper-standard .IDX-btn,
+.timeless-black #IDX-main .IDX-btn-primary,
+.timeless-black .IDX-wrapper-standard .IDX-panel-primary>.IDX-panel-heading,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default,
+.timeless-black .IDX-wrapper-standard .IDX-panel-primary {
+	border-color: #2b2b2b;
+}
+
+/* Secondary */
+.timeless-black header.site-header {
+	background: #171717;
+	background: -moz-linear-gradient(top, rgba(23,23,23,1) 0%, rgba(23,23,23,0) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(23,23,23,1) 0%,rgba(23,23,23,0) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(23,23,23,1) 0%,rgba(23,23,23,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#171717', endColorstr='#00171717',GradientType=0 ); /* IE6-9 */
+}
+.timeless-black .sticky-header.sticky header.site-header,
+.timeless-black .home-search-bar,
+.timeless-black .right-off-canvas-menu {
+	background-color: rgba(23,23,23, 0.85);
+}
+.timeless-black .home-lead h3,
+.timeless-black .content-sidebar-wrap.row .bg-alt {
+	background-color: rgba(43,43,43, 0.85);
+}
+.timeless-black .ae-iconbox h4 a:hover,
+.timeless-black .IDX-wrapper-standard a:focus, .IDX-wrapper-standard a:hover,
+.timeless-black .IDX-wrapper-standard .IDX-detailsHotAction a:hover {
+	color: #171717;
+}
+.timeless-black .footer-widgets,
+.timeless-black footer.site-footer,
+.timeless-black .IDX-wrapper-standard .IDX-btn:hover,
+.timeless-black #IDX-main.IDX-wrapper-standard .IDX-btn-default:hover,
+.timeless-black .IDX-wrapper-standard .IDX-btn-primary:hover,
+.timeless-black .IDX-wrapper-standard .IDX-btn:focus,
+.timeless-black #IDX-main.IDX-wrapper-standard .IDX-btn-default:focus,
+.timeless-black .IDX-wrapper-standard .IDX-btn-primary:focus,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover {
+	background-color: #171717 !important;
+}
+
+/* Accent */
+.timeless-black .site-inner .bg-alt a:hover,
+.timeless-black .site-inner .bg-alt a:focus,
+.timeless-black .bg-alt .equity-idx-carousel span.price:hover,
+.timeless-black .home-lead h3 strong,
+.timeless-black .home-bottom h4.widget-title,
+.timeless-black .home-cta-menu ul.menu li a:hover,
+.timeless-black .footer-widgets .widget-title,
+.timeless-black .footer-widgets .widget.featured-page h2 a,
+.timeless-black .footer-widgets .widget.featured-post h2 a,
+.timeless-black .footer-widgets .widget a:hover,
+.timeless-black footer.site-footer a:hover,
+.timeless-black .site-inner a:hover,
+.timeless-black .site-inner a:focus,
+.timeless-black a.off-canvas-toggle:hover,
+.timeless-black a.off-canvas-toggle:focus,
+.timeless-black ul.off-canvas-menu li a:hover,
+.timeless-black ul.off-canvas-menu li a:focus,
+.timeless-black .home-search-bar ul.menu li a:hover,
+.timeless-black .home-search-bar ul.menu li a:focus,
+.timeless-black .equity-idx-carousel span.price:hover {
+	color: #ce0929 !important;
+}
+.timeless-black .home-search-bar .idx-omnibar-form button,
+.timeless-black .button.secondary,
+.timeless-black button.secondary,
+.timeless-black .button:not(.secondary):hover,
+.timeless-black button:not(.secondary):hover,
+.timeless-black input[type="button"]:hover,
+.timeless-black input[type="submit"]:hover,
+.timeless-black .bg-alt .button:hover,
+.timeless-black .bg-alt input[type="button"]:hover,
+.timeless-black .bg-alt input[type="submit"]:hover,
+.timeless-black .button:not(.secondary):focus,
+.timeless-black button:not(.secondary):focus,
+.timeless-black input[type="button"]:focus,
+.timeless-black input[type="submit"]:focus,
+.timeless-black .equity-idx-carousel .owl-controls .owl-prev:hover,
+.timeless-black .equity-idx-carousel .owl-controls .owl-next:hover,
+.timeless-black ul.pagination li.current a:hover,
+.timeless-black ul.pagination li.current a:focus,
+.timeless-black ul.pagination li.current button:hover,
+.timeless-black ul.pagination li.current button:focus {
+	background-color: #ce0929;
+}
+
+/* White */
+.timeless-black .home-lead h3,
+.timeless-black .site-inner .bg-alt a,
+.timeless-black .site-inner a.button:hover,
+.timeless-black .site-inner a.button:focus,
+.timeless-black .site-inner .bg-alt a.button:hover,
+.timeless-black .site-inner .bg-alt a.button:focus,
+.timeless-black .button,
+.timeless-black button,
+.timeless-black input[type="button"],
+.timeless-black input[type="submit"],
+.timeless-black #IDX-formSubmit,
+.timeless-black .button:hover,
+.timeless-black button:hover,
+.timeless-black input[type="button"]:hover,
+.timeless-black input[type="submit"]:hover,
+.timeless-black #IDX-formSubmit:hover, 
+.timeless-black .ae-iconbox.type-2 i,
+.timeless-black .ae-iconbox.type-3 i,
+.timeless-black .bg-alt .ae-iconbox i[class*="fa-"],
+.timeless-black .bg-alt .ae-iconbox a i[class*="fa-"],
+.timeless-black .footer-widgets .widget.featured-page h2 a:hover,
+.timeless-black .footer-widgets .widget.featured-post h2 a:hover,
+.timeless-black .IDX-wrapper-standard .IDX-detailsPhotosWrap a.IDX-arrow,
+.timeless-black .IDX-button#IDX-scheduleShowing,
+.timeless-black .IDX-detailsVirtualTourLink,
+.timeless-black .idx-content .IDX-wrapper-standard #IDX-saveSearch,
+.timeless-black .idx-content .IDX-wrapper-standard #IDX-newSearch,
+.timeless-black .idx-content .IDX-wrapper-standard #IDX-modifySearch,
+.timeless-black .idx-content .IDX-wrapper-standard a.IDX-btn,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.timeless-black .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover  {
+	color: #fff !important;
+}
+.timeless-black .bg-alt .button,
+.timeless-black .bg-alt button,
+.timeless-black .bg-alt input[type="button"],
+.timeless-black .bg-alt input[type="submit"],
+.timeless-black .idx-content .IDX-wrapper-standard .IDX-btn,
+.timeless-black .idx-content .IDX-wrapper-standard .IDX-btn-default,
+.timeless-black .idx-content .IDX-wrapper-standard .IDX-btn-primary {
+	border-color: #fff;
+}
+
+.timeless-black .IDX-wrapper-standard #IDX-formReset,
+.timeless-black .IDX-wrapper-standard #IDX-resetBtn,
+.timeless-black .IDX-wrapper-standard #IDX-formReset-bottom {
+	color: $body-font-color !important;
+}
+
+/* =Color Styles - Custom
+------------------------------------------------------------------------- */
+
+.timeless-custom .home-lead h3,
+.timeless-custom .site-inner .bg-alt a,
+.timeless-custom .site-inner a.button:hover,
+.timeless-custom .site-inner a.button:focus,
+.timeless-custom .site-inner .bg-alt a.button:hover,
+.timeless-custom .site-inner .bg-alt a.button:focus,
+.timeless-custom .button,
+.timeless-custom button,
+.timeless-custom input[type="button"],
+.timeless-custom input[type="submit"],
+.timeless-custom #IDX-formSubmit,
+.timeless-custom .button:hover,
+.timeless-custom button:hover,
+.timeless-custom input[type="button"]:hover,
+.timeless-custom input[type="submit"]:hover,
+.timeless-custom #IDX-formSubmit:hover, 
+.timeless-custom .ae-iconbox.type-2 i,
+.timeless-custom .ae-iconbox.type-3 i,
+.timeless-custom .bg-alt .ae-iconbox i[class*="fa-"],
+.timeless-custom .bg-alt .ae-iconbox a i[class*="fa-"],
+.timeless-custom .footer-widgets .widget.featured-page h2 a:hover,
+.timeless-custom .footer-widgets .widget.featured-post h2 a:hover,
+.timeless-custom .IDX-wrapper-standard .IDX-detailsPhotosWrap a.IDX-arrow,
+.timeless-custom .IDX-button#IDX-scheduleShowing,
+.timeless-custom .IDX-detailsVirtualTourLink,
+.timeless-custom .idx-content .IDX-wrapper-standard #IDX-saveSearch,
+.timeless-custom .idx-content .IDX-wrapper-standard #IDX-newSearch,
+.timeless-custom .idx-content .IDX-wrapper-standard #IDX-modifySearch,
+.timeless-custom .idx-content .IDX-wrapper-standard a.IDX-btn,
+.timeless-custom .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a,
+.timeless-custom .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:focus,
+.timeless-custom .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>.IDX-active>a:hover,
+.timeless-custom .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:focus,
+.timeless-custom .IDX-wrapper-standard .IDX-navbar-default .IDX-navbar-nav>li>a:hover   {
+	color: #fff !important;
+}
+.timeless-custom .bg-alt .button,
+.timeless-custom .bg-alt button,
+.timeless-custom .bg-alt input[type="button"],
+.timeless-custom .bg-alt input[type="submit"] {
+	border-color: #fff;
+}
+.timeless-custom .IDX-wrapper-standard .IDX-detailsHotAction a,
+.timeless-custom .IDX-wrapper-standard .IDX-detailsHotAction a:hover {
+	background: none !important;
+}
