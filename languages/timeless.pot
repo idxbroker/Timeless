@@ -1,0 +1,306 @@
+# Copyright (C) 2016 Agent Evolution
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Timeless 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2016-04-15 21:38:03+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#. Theme Name of the plugin/theme
+msgid "Timeless"
+msgstr ""
+
+#: functions.php:17
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:18
+msgid "Search Bar Menu"
+msgstr ""
+
+#: functions.php:30
+msgid "Green"
+msgstr ""
+
+#: functions.php:31
+msgid "Red"
+msgstr ""
+
+#: functions.php:32
+msgid "Aqua"
+msgstr ""
+
+#: functions.php:33
+msgid "Black"
+msgstr ""
+
+#: functions.php:34
+msgid "Use Customizer"
+msgstr ""
+
+#: functions.php:121 functions.php:132 functions.php:143
+msgid "<i class=\\\"fas fa-caret-left\\\"></i><span>Prev</span>"
+msgstr ""
+
+#: functions.php:126 functions.php:137 functions.php:148
+msgid "<i class=\\\"fas fa-caret-right\\\"></i><span>Next</span>"
+msgstr ""
+
+#: functions.php:161
+msgid "Home Search"
+msgstr ""
+
+#: functions.php:162
+msgid ""
+"This is the Search section of the Home page at the top. Recommended to use "
+"a Custom Menu and the IDX Omnibar Search widget."
+msgstr ""
+
+#: functions.php:168
+msgid "Home CTA Menu"
+msgstr ""
+
+#: functions.php:169
+msgid ""
+"This is the icon menu bar on the homepage. Recommended to use the Equity "
+"Custom Menu widget."
+msgstr ""
+
+#: functions.php:175
+msgid "Home Middle"
+msgstr ""
+
+#: functions.php:176
+msgid ""
+"This is the Middle section of the Home page. Recommended to use an Equity "
+"Property widgets."
+msgstr ""
+
+#: functions.php:182
+msgid "Home Bottom"
+msgstr ""
+
+#: functions.php:183
+msgid ""
+"This is the Bottom section of the Home page. Recommended to use a Text "
+"widget with a testimonial."
+msgstr ""
+
+#: lib/customizer.php:23
+msgid "Custom Colors"
+msgstr ""
+
+#: lib/customizer.php:53
+msgid "Primary Color"
+msgstr ""
+
+#: lib/customizer.php:54
+msgid "Used for links, buttons, headings."
+msgstr ""
+
+#: lib/customizer.php:68
+msgid "Secondary Color"
+msgstr ""
+
+#: lib/customizer.php:69
+msgid ""
+"Should be slightly darker than the primary color. Used for header, footer, "
+"and sticky search widget."
+msgstr ""
+
+#: lib/customizer.php:83
+msgid "Accent Color"
+msgstr ""
+
+#: lib/customizer.php:84
+msgid "Accent color for highlights and hover states."
+msgstr ""
+
+#: lib/customizer.php:99
+msgid "Home Page"
+msgstr ""
+
+#: lib/customizer.php:132
+msgid "Home Page Heading"
+msgstr ""
+
+#: lib/customizer.php:133
+msgid ""
+"This is the lead heading on the homepage above the search widget. Use "
+"<code>&lt;strong&gt;</code> tags for accent color."
+msgstr ""
+
+#: lib/customizer.php:148
+msgid "Widget area background opacity"
+msgstr ""
+
+#: lib/customizer.php:149
+msgid "Adjust the opacity of the home page widget area backgrounds."
+msgstr ""
+
+#: lib/customizer.php:169
+msgid "Home Page Background"
+msgstr ""
+
+#: lib/customizer.php:170
+msgid "Choose either a video or image for the homepage background."
+msgstr ""
+
+#: lib/customizer.php:189
+msgid "Home Page Background Video"
+msgstr ""
+
+#: lib/customizer.php:190
+msgid ""
+"Upload a video in MP4 format to use for a background video on the homepage. "
+"Video should be optimized with as small a file size as possible."
+msgstr ""
+
+#: lib/customizer.php:205
+msgid "Default Background Image"
+msgstr ""
+
+#: lib/customizer.php:206
+msgid ""
+"Used for home page and interior pages with no image assigned. <p "
+"style=\"font-style: normal;\">Upload an image in <strong>.JPG</strong> "
+"format at least 1200x800 pixels.</p><p><strong><a "
+"href=\"http://www.smushit.com/ysmush.it/\" "
+"target=\"_blank\">Optimize</a></strong> your images!</p>"
+msgstr ""
+
+#: lib/customizer.php:219
+msgid "Use Sticky Search from Homepage on interior pages?"
+msgstr ""
+
+#: lib/customizer.php:253
+msgid "Show Site Description?"
+msgstr ""
+
+#: lib/customizer.php:265
+msgid "Enable Sticky Header?"
+msgstr ""
+
+#: lib/metaboxes.php:28
+msgid "Single Post Options"
+msgstr ""
+
+#: lib/metaboxes.php:36
+msgid "Custom Background Image"
+msgstr ""
+
+#: lib/metaboxes.php:37
+msgid "Upload an image to use as the background for this post."
+msgstr ""
+
+#: lib/metaboxes.php:42
+msgid "Disable Background"
+msgstr ""
+
+#: lib/metaboxes.php:43
+msgid "Check to disable the background image on this post."
+msgstr ""
+
+#: single-listing-classical.php:1041 single-listing-elegant.php:991
+#: single-listing-luxurious.php:947 single-listing-solid.php:1002
+#: single-listing-spacious.php:998
+msgid "View more <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: single-listing-classical.php:1068 single-listing-classical.php:1070
+#: single-listing-elegant.php:1017 single-listing-elegant.php:1019
+#: single-listing-luxurious.php:971 single-listing-luxurious.php:973
+#: single-listing-solid.php:1027 single-listing-solid.php:1029
+#: single-listing-spacious.php:1023 single-listing-spacious.php:1025
+msgid "Price:"
+msgstr ""
+
+#: single-listing-classical.php:1076 single-listing-elegant.php:1025
+#: single-listing-luxurious.php:979 single-listing-solid.php:1035
+#: single-listing-spacious.php:1031
+msgid "Address:"
+msgstr ""
+
+#: single-listing-classical.php:1077 single-listing-elegant.php:1026
+#: single-listing-luxurious.php:980 single-listing-solid.php:1036
+#: single-listing-spacious.php:1032
+msgid "City:"
+msgstr ""
+
+#: single-listing-classical.php:1078 single-listing-elegant.php:1027
+#: single-listing-luxurious.php:981 single-listing-solid.php:1037
+#: single-listing-spacious.php:1033
+msgid "State:"
+msgstr ""
+
+#: single-listing-classical.php:1079 single-listing-elegant.php:1028
+#: single-listing-luxurious.php:982 single-listing-solid.php:1038
+#: single-listing-spacious.php:1034
+msgid "Zip Code:"
+msgstr ""
+
+#: single-listing-classical.php:1115 single-listing-elegant.php:1064
+#: single-listing-luxurious.php:1018 single-listing-solid.php:1074
+#: single-listing-spacious.php:1070
+msgid "Tagged Features:"
+msgstr ""
+
+#: single-listing-classical.php:1123 single-listing-elegant.php:1072
+#: single-listing-luxurious.php:1026 single-listing-solid.php:1082
+#: single-listing-spacious.php:1078
+msgid "Home Summary"
+msgstr ""
+
+#: single-listing-classical.php:1125 single-listing-elegant.php:1074
+#: single-listing-luxurious.php:1028 single-listing-solid.php:1084
+#: single-listing-spacious.php:1080
+msgid "Kitchen Summary"
+msgstr ""
+
+#: single-listing-classical.php:1127 single-listing-elegant.php:1076
+#: single-listing-luxurious.php:1030 single-listing-solid.php:1086
+#: single-listing-spacious.php:1082
+msgid "Living Room"
+msgstr ""
+
+#: single-listing-classical.php:1129 single-listing-elegant.php:1078
+#: single-listing-luxurious.php:1032 single-listing-solid.php:1088
+#: single-listing-spacious.php:1084
+msgid "Master Suite"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://docs.aethemes.com/category/themes/timeless"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A Responsive Real Estate Child Theme with IDX home search for the real "
+"estate professional"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Agent Evolution"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.agentevolution.com/"
+msgstr ""
